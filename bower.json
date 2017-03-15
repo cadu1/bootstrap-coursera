@@ -1,0 +1,26 @@
+{
+  "name": "conFusion",
+  "homepage": "https://github.com/cadu1/bootstrap-coursera",
+  "authors": [
+    "Carlos Oliveira <carlos.eduardo02@gmail.com>"
+  ],
+  "description": "web site for an awesome restaurante",
+  "main": "index.html",
+  "keywords": [
+    "restaurant",
+    "confusion",
+    "fusion"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
